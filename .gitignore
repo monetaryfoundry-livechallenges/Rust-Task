@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.env.local
+coverage
+cache
+artifacts
+typechain-types
+deployments
+*.log
+.DS_Store
+backend/data/runtime/*.json
+!backend/data/runtime/.gitkeep
